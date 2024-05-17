@@ -1,0 +1,17 @@
+{
+  "title": "<diderot effect>",
+  "description": "<manga drama>",
+  "artist": "<anod helal>",
+  "author": "<anod helal>",
+  "cover": "<export202312071712495700.png>",
+  "chapters": {
+    "<chapter one>": {
+      "title": "<diderot effect>",
+      "volume": "<volume one>",
+      "groups": {
+        "<anod helal>": "/proxy/api/imgur/chapter/<6ikFIkA>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
